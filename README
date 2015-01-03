@@ -126,7 +126,7 @@ source code tarball.
 
 On Debian, Ubuntu:
 
-  apt-get -y install build-essential libglib2.0-dev libssl-dev libcurl4-openssl-dev libgirepository1.0-dev
+  apt-get -y install autoconf automake libtool asciidoc build-essential libglib2.0-dev libssl-dev libcurl4-openssl-dev libgirepository1.0-dev
 
 On Fedora:
 
